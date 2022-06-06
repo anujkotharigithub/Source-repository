@@ -2,5 +2,9 @@ this is a test1 file created by ak from the forked repo
 I have added few lines here that are not present in my local repo file
 This is the updated file from devbranch
 Few more lines added in this file from the devbranch
+<<<<<<< Updated upstream
 NEW LINE ADDED FROM DEVBRANCH REPO
 ANOTHER NEW LINE ADDED FROM DEVBRANCH REPO
+=======
+new line added from local repo
+>>>>>>> Stashed changes
